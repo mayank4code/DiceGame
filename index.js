@@ -16,4 +16,5 @@ function myFunction(){
         document.getElementById("result").innerHTML="Player 2 Won ! &#9757";
 
     }
+    document.querySelector("button").innerHTML="Let's Play Again";
 }
