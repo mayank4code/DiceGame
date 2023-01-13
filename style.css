@@ -1,0 +1,49 @@
+* {
+    background-color: #393E46;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 3rem;
+    font-family: 'Lobster', cursive;
+}
+h2{
+    font-size: 2rem;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    height: 20%;
+    margin: auto;
+    display: inline-block;
+}
+
+img {
+    width: 75%;
+}
+
+button {
+    margin: 1rem;
+    border-radius: 5px;
+    font-size: 2rem;
+    background-color: cornflowerblue;
+    color: black;
+}
+
+#result {
+    font-size: 3rem;
+}
+
+footer {
+    margin-top: 5%;
+    color: royalblue;
+}
+
+footer a {
+    color: tomato;
+    font-size: 2rem;
+}
